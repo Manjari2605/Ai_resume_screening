@@ -29,7 +29,7 @@ ai_generative/
 ├── app.py
 ├── requirements.txt
 ├── resume_model.pkl  
-├── procdata.csv      
+├── procdata.csv  
 ├── static/          
 ├── uploads/           
 └── README.md
